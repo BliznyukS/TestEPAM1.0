@@ -67,7 +67,4 @@ gen### Java template
 hs_err_pid*
 
 # Created by .ignore support plugin (hsz.mobi)
-
-*.class
-.idea
 *.xml
