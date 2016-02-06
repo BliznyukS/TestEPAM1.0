@@ -4,7 +4,7 @@
 *.iml
 
 ## Directory-based project format:
-.idea
+
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
@@ -50,7 +50,6 @@ crashlytics-build.properties
 
 # IntelliJ project files
 .idea
-*.iml
 out
 gen### Java template
 *.class
@@ -68,3 +67,4 @@ hs_err_pid*
 
 # Created by .ignore support plugin (hsz.mobi)
 *.xml
+
